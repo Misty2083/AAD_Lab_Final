@@ -1,0 +1,18 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Java build output directory
+bin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.log
+*.tmp
+*.swp
+*~
+
